@@ -1,0 +1,14 @@
+It will help finding differenecs between two files easily
+
+You will be able to easily go back to an earlier version if needed
+
+The commits will have more logic than just automatic ones
+
+Because Git is catered to Coding industry while the other ones are for
+the general population
+
+To see all the changes that have been done and to quickly see differences
+
+Will give me more confidence as you can always revert back
+
+Mainly big projects to keep track of everything
